@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Paycheck Renegade]]></title><description><![CDATA[Igniting FIRE in the Philippines]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Nov 2019 14:08:20 GMT</lastBuildDate><item><title><![CDATA[Becoming Financially Independent in the Philippines]]></title><description><![CDATA[Have you ever dreamed of becoming financially independent? Who wouldn't, right? Not having to worry about money for the rest of our lives. We'll be free to live the life we've always dreamed of. Travelling the world. Eating all kinds of food. Trying various kinds of work. Spending a lot of time with family and friends. Creating something useful, something beautiful. Helping those in need. And a thousand things more. Or at least getting rid of the stress from always not having enough. Right?]]></description><link>https://paycheckrenegade.github.io/posts/becoming-financially-independent-in-the-philippines/</link><guid isPermaLink="false">https://paycheckrenegade.github.io/posts/becoming-financially-independent-in-the-philippines/</guid><pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Paycheck Renegade]]></title><description><![CDATA[Igniting FIRE in the Philippines]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Nov 2019 18:28:33 GMT</lastBuildDate><item><title><![CDATA[Becoming Financially Independent in the Philippines]]></title><description><![CDATA[Have you ever dreamed of becoming financially independent? Who wouldn't, right? Not having to worry about money for the rest of our lives. We'll be free to live the life we've always dreamed of. Travelling the world. Eating all kinds of food. Trying various kinds of work. Spending a lot of time with family and friends. Creating something useful, something beautiful. Helping those in need. And a thousand things more. Or at least getting rid of the stress from always not having enough. Right?]]></description><link>https://paycheckrenegade.github.io/posts/becoming-financially-independent-in-the-philippines/</link><guid isPermaLink="false">https://paycheckrenegade.github.io/posts/becoming-financially-independent-in-the-philippines/</guid><pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7f92c0d7423dd9658a38b385e550d682/a8200/financial-independence.png&quot;
+    href=&quot;/static/4fbb7e17f2684879e4c05c8b0036090d/9ba42/financial-independence.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -9,49 +9,51 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 64%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQ4y1WT62+TZRjG98cYxZgQYvioiTGSGAwxJBqNMUYkgWgI1RCgYWmYJAbRsQ8MdAuLsOFOQHWgVdfNAdlw69qtb7se3nNPb487sq3d2Nh+PO/bAfHDnft+nrz95bqu+2mDGZskFQ9iijJmAqImsO/sysrTTpfG/BiKRHxlHfUxKGvbKOvbTlfXd847c4MNc4Dih4W0TFFUKh5y7vToBO4vD/Pu3j24jnxBR98tUoBc23oOkdfqs7YDbngGs/tcKcPSfBEjGiCvRfBeb+ONXS+x7/XdHPrkQ/xTEuaWAFafOGpscHoTdKE6Xl2vK3xuWXTbst31yDjpRJCxwQHe2fMaZ499SjLwOwWhLrGGYztZ2yC3Db5cGNc/J+lTRjA3+L/CvCphKWFnLqSSIgKFodvX+aPzEvdHBjGfQGqlhlQyODHs4dRgI5/d/pwT/jP4MtPC8lZdoV05AbrW3so5j5ty/F9hOYwhstxmC0sbJpEcQhZ25+cyBBI+Dv3t4usLH/HV4b1cHP+FDtlH8pnldCKEEn7Igff28/Irr9J40oUZHWcxr1IqlzDkm1SNNqyyzmzZ4L9KjujyKgNGkKbLHxB/8Cf6Uo1YsVAH2tnllGlGh+5y8P0DtF1qZiETp+vWHa52d1IabSOVMdBX1xxb9hLs/PzFJF2yn4cDV/A2vs1v7jdfPBsbWknH+MvbT/OFFh5ZCY6ePofLfQbOv0Wt9WOyC0UyC2VUEb66UkWzFyRs6mJZkXyGyan7L7ZszIgc5SmutLRy7LibI9+4+fa786iLiyhLK+gFC0Uos5bn0WJj3OhoJzK3iilgsYiMGghjbu5kaIi8zFj9ydjPZVYo9fsGCAVG0aobpMUyVPHxzOoGhpglI8WomkUTsCklhdx8kc3QKZalfttySARtMVfJC6D97wigCbUVTSIoR+m1ivhKs/Tn8nRls3jzRbyVeXoKBX62srQOPaB07wfIfE/+xk80RPqa0EeukbzbgtTjIdJ71qnwrx4m7nWKXPoITnYTCvYwHep1un127kI9ztkY/pHFdg9adxNPATOPZiVYzK/WAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 56.25211792612673%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEA//EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABbrd5TGwP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAESEQL/2gAIAQEAAQUCnXBXRKJRiP/EABgRAAIDAAAAAAAAAAAAAAAAAAACEhNR/9oACAEDAQE/AayDaf/EABcRAQADAAAAAAAAAAAAAAAAAAABEhP/2gAIAQIBAT8B0Xh//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQITER/9oACAEBAAY/Ak+JFq4yMP/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVFx8f/aAAgBAQABPyGiubjY0cuTsQei4RloZP/aAAwDAQACAAMAAAAQ5C//xAAWEQADAAAAAAAAAAAAAAAAAAAQEVH/2gAIAQMBAT8Qeif/xAAXEQEAAwAAAAAAAAAAAAAAAAAAEVFh/9oACAECAQE/EIUxf//EABwQAQADAAIDAAAAAAAAAAAAAAEAESEQMUFhgf/aAAgBAQABPxDMB8pXxHj2bvAQGAD7xwCgx7Zb6T//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Financial Independence&quot;
         title=&quot;&quot;
-        src=&quot;/static/7f92c0d7423dd9658a38b385e550d682/a8200/financial-independence.png&quot;
-        srcset=&quot;/static/7f92c0d7423dd9658a38b385e550d682/0783d/financial-independence.png 240w,
-/static/7f92c0d7423dd9658a38b385e550d682/782f4/financial-independence.png 480w,
-/static/7f92c0d7423dd9658a38b385e550d682/a8200/financial-independence.png 700w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        src=&quot;/static/4fbb7e17f2684879e4c05c8b0036090d/b3ee8/financial-independence.jpg&quot;
+        srcset=&quot;/static/4fbb7e17f2684879e4c05c8b0036090d/3bc27/financial-independence.jpg 240w,
+/static/4fbb7e17f2684879e4c05c8b0036090d/98431/financial-independence.jpg 480w,
+/static/4fbb7e17f2684879e4c05c8b0036090d/b3ee8/financial-independence.jpg 960w,
+/static/4fbb7e17f2684879e4c05c8b0036090d/b97fe/financial-independence.jpg 1440w,
+/static/4fbb7e17f2684879e4c05c8b0036090d/fb329/financial-independence.jpg 1920w,
+/static/4fbb7e17f2684879e4c05c8b0036090d/9ba42/financial-independence.jpg 5902w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     
-&lt;em&gt;The Path to Financial Independence by Andrea Azzola&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Photo by Luke Richardson on Unsplash&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Have you ever dreamed of becoming financially independent?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Who wouldn’t, right? Not having to worry about money for the rest of our lives. We’ll be free to live the life we’ve always dreamed of. Travelling the world. Eating all kinds of food. Trying various kinds of work. Spending a lot of time with family and friends. Creating something useful, something beautiful. Helping those in need. And a thousand things more. Or at least getting rid of the stress from always not having enough. Right?&lt;/p&gt;
 &lt;p&gt;I am the Paycheck Renegade. Payren, for short. A salaryman living in the Philippines. Here’s my story on how I started working towards financial independence and how I am planning to get there.&lt;/p&gt;
 &lt;h2&gt;The Current Situation&lt;/h2&gt;
-&lt;p&gt;I am a young hopeful professional. A software developer, in my early twenties, working in a fintech company in Makati. The job pays well and I get to do what I love doing.&lt;/p&gt;
-&lt;p&gt;I came from a small peaceful town in the south. Instead of commuting everyday to work, I’ve moved here in a nearby city to learn how to stand on my own. My famous last words.&lt;/p&gt;
-&lt;p&gt;Anyways, I don’t like being struck in traffic. So I really would always choose paying a bit more than commuting to and from my hometown. I hate wasting my time on the street. Queuing to get a ride. Sitting on a bus until my butt hurts when instead I could be coding an app for my side projects. Or reading books. Or watching movies in the comfort of my bed. Or just washing the dishes. I get more time in exchange of some money. And it’s really worth it. Plus, I get to have longer sleep since work is just few minutes away.&lt;/p&gt;
-&lt;p&gt;Life is good. I enjoy living here in Metro Manila. It’s kinda hard without my parents but that’s fine. Great, actually. I have freedom on what to do with my time. I can come home whenever I want to. And stay up all night. No nags to hear. And no flying slippers to catch.&lt;/p&gt;
-&lt;p&gt;What’s hard is the finances. Paying my own bills. Making a budget. Sticking to it. Rolling with the emergency expenses. Trying to be super flexible. Like surviving on 1,000 pesos in 2 weeks. And spending 10,000 pesos in 2 days. In the same month. Happens every month.&lt;/p&gt;
-&lt;p&gt;It makes me think, “How come something this essential is not taught at school?” Personal finance. They never teach this. What a scam! I studied so hard to prepare myself at real life. So I graduated and got a job. But then, bills punched me in the face and I’m out cold.&lt;/p&gt;
-&lt;p&gt;I struggled for the first few months of living and working here. I even got to the point where I ran out of funds. The money I had left was only enough for a commute towards my mother’s work. So I did. And mom saves the day. But it was embarrassing. It was a failure on my side. After being too cocky to leave home and live on my own.&lt;/p&gt;
+&lt;p&gt;I am a young hopeful professional. A software developer, in my early twenties, working in a fintech company in Makati. The job pays me well and I get to do what I love doing.&lt;/p&gt;
+&lt;p&gt;I came from a small peaceful town in the south. Instead of commuting everyday to work, I moved here in the city to learn how to stand on my own (my famous last words). Anyways, I don’t like being struck in traffic. So I chose paying a bit more money than my supposed commute expenses. I hate wasting time on the street. Queuing to get a ride, sitting on a bus until my butt hurts. When instead, I could be coding an app for my side projects. Or reading books. Or watching movies in the comfort of my bed. Or just washing the dishes. I get more time in exchange of some money. And it’s really worth it. Plus, I get to have longer sleep since work is just few minutes away.&lt;/p&gt;
+&lt;p&gt;Life is good. I enjoy living here in Metro Manila. Although there was culture shock moving away from my parents’ providence, I’ve actually started to appreciate living on my own. I have freedom on what to do with my time. I can come home whenever I want to. Stay up all night. No nags to hear. And no flying slippers to catch.&lt;/p&gt;
+&lt;p&gt;Finances, that’s the catch. Paying my own bills. Making a budget. Sticking to it. Rolling with the emergency expenses. Trying to be super flexible. Like surviving on 1,000 pesos in 2 weeks. And spending 10,000 pesos in 2 days. In the same month. Happens every month.&lt;/p&gt;
+&lt;p&gt;It makes me think, “How come something this essential is not taught at school?” Personal finance. They never teach this. What a scam! I studied so hard to prepare myself at real life. So I graduated and got a job. And before I knew it, bills punched me in the face and knocked me out cold.&lt;/p&gt;
+&lt;p&gt;I struggled for the first few months of living and working here. I even got to the point where I ran out of funds. The money I had left was only enough for a commute towards my mother’s work. So I did. And mom saved the day. But it was embarrassing. It was a failure on my side. After being too cocky to leave home and live on my own.&lt;/p&gt;
 &lt;h2&gt;Wanting Things to Change&lt;/h2&gt;
-&lt;p&gt;It’s been two years since I have started working and I’m still struggling with my finances. I always try to save but then emergency expenses kick me into the mud. It doesn’t stop me, though. I get back up again and continue saving. But it won’t be long until it kicks me back again into the mud. It just goes on and on. Month after month. Year after year.&lt;/p&gt;
+&lt;p&gt;It’s been two years since I have started working and I’m still struggling with my finances. I always try to save but then emergency expenses kick me into the mud. It doesn’t stop me, though. I get back up again and continue saving. But it won’t be long until I’m back deep into the mud. It just goes on and on. Month after month. Year after year.&lt;/p&gt;
 &lt;p&gt;It’s not unusual you’ll hear someone at work say, “I’m already working for several years but still have no savings”.&lt;/p&gt;
-&lt;p&gt;Time seems to pass by quickly when you’re just waiting for paydays.
-We were living paycheck to paycheck. Petsa de peligro days twice a month. It was tiring and kind of depressing. But I guess there’s some assurance in knowing that you’re not alone. It’s normal. A lot of us we’re like that. Young and old. Even those with high income.&lt;/p&gt;
-&lt;p&gt;We knew we wanted things to change. It was just so damn hard. The thought of becoming financially independent. Not having to worry about money, ever, for the rest of our lives. Was really a dream.
-We’d probably work for 40 years of our life. If we get lucky, we would then retire with a fully paid house, a car, and a pension from SSS. We then get to have all the time to ourselves. To do all those things we’d love to do. Sadly, we’d be too old by then. Not as strong and energetic as we are right now.&lt;/p&gt;
+&lt;p&gt;Time seems to pass by quickly when you’re just waiting for paydays.&lt;/p&gt;
+&lt;p&gt;We were living paycheck to paycheck. Petsa de peligro days twice a month. It was tiring and kind of depressing. But I guess there’s some assurance in knowing that you’re not alone. It’s normal. A lot of us we’re like that. Young and old. Even those with high income.&lt;/p&gt;
+&lt;p&gt;We knew we wanted things to change. It was just so damn hard. The thought of becoming financially independent. Not having to worry about money, ever, for the rest of our lives. Was really a dream.&lt;/p&gt;
+&lt;p&gt;We’d probably work for 40 years of our life. If we get lucky, we would then retire with a fully paid house, a car, and a pension from SSS. We then get to have all the time to ourselves. To do all those things we’d love to do. Sadly, we’d be too old by then. Not as strong and energetic as we are right now.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -85,17 +87,17 @@ We’d probably work for 40 years of our life. If we get lucky, we would then re
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Have you seen this illustration before? Classic. It compares how much time, money, and energy you have along your lifespan. When you’re young, you have a lot of time and energy but no money. When you become an adult, you then have money in exchange of your time. And when you get old, you take back your time but lose your energy. It tells us, that even as we grow old, we’d always lack one of those three. It’s the reality. And it’s sad.&lt;/p&gt;
+&lt;p&gt;Have you seen this illustration before? It shows how much time, money, and energy people usually have along their lifespan. When you’re young, you have a lot of time and energy but no money. When you become an adult, you then have money in exchange of your time. And when you get old, you take back your time but lose your energy. It tells us, that even as we grow old, we’d always lack one of those three. It’s sad, isn’t it? &lt;/p&gt;
 &lt;p&gt;But it doesn’t have to be.&lt;/p&gt;
 &lt;h2&gt;Discovering FIRE&lt;/h2&gt;
 &lt;p&gt;It’s been a few months now since I have discovered FIRE. It stands for Financial Independence, Retire Early. It’s a lifestyle movement of people saving and investing 50% or more of their income while minimizing expenses in order to achieve financial independence and/or retire in their 30s or 40s.&lt;/p&gt;
-&lt;p&gt;The concept is quite simple.&lt;/p&gt;
+&lt;p&gt;The concept is quite simple:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Live below your means.&lt;/li&gt;
 &lt;li&gt;So you can save 50–70% of your income.&lt;/li&gt;
 &lt;li&gt;And then invest it in low-cost stock index funds.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Keep doing that. And in 10 years, more or less, you’ll be able to accumulate money worth 25x your annual spending. Which, by the 4% rule, you can live off for the rest of your life. By then, you are financially independent and you can retire early.&lt;/p&gt;
+&lt;p&gt;Keep doing that. And in 10 years, more or less, you’ll be able to accumulate money worth 25x your annual spending. Which, by the &lt;a href=&quot;https://www.investopedia.com/terms/f/four-percent-rule.asp&quot;&gt;4% rule&lt;/a&gt;, you can live off for the rest of your life. By then, you are financially independent and you can retire early.&lt;/p&gt;
 &lt;p&gt;Those who are in FIRE does not see retirement as sitting on a beach or playing golf all the time. It’s about choice. The freedom to choose whether you want to work or not. To choose which kind of work you’d like to do. To choose when, where, and how.&lt;/p&gt;
 &lt;p&gt;It is about time freedom. Time is the most valuable asset that we have. It is limited. It is not replenish-able. We should have the freedom to choose how we’d use it.&lt;/p&gt;
 &lt;p&gt;Wouldn’t you want to spend more time with your family? Especially if you have kids. I would. But we can’t. Because we have bills and basic needs. In which we have jobs to pay for it. We need to prepare in the morning. Spend some time in traffic. And then 8 hours or more on the job. Few hours again in traffic. Few more to do household chores. And we still need to sleep 7–8 hours. How many hours do we have left?&lt;/p&gt;
@@ -103,12 +105,10 @@ We’d probably work for 40 years of our life. If we get lucky, we would then re
 And the good thing is, they’re helping other people do it as well. They have blogs, podcasts, and books to share their knowledge and experience on how they did it. Just Google “fire movement”, you’ll find a lot. Online communities have also sprouted. I’ve never seen something like it. Where people of extremely different financial statuses are all working together and helping each other achieve a common goal. No bitterness. No discrimination.&lt;/p&gt;
 &lt;p&gt;The dream of financial independence and early retirement is now achievable. And the concepts are quite simple. It doesn’t have to be just a dream anymore. It can be a goal. And it is, for the people pursuing it.&lt;/p&gt;
 &lt;h2&gt;Igniting the FIRE&lt;/h2&gt;
-&lt;p&gt;If we follow the concepts of FIRE, we can get there in 10 years, more or less. Most of the FIRE movement is in US, but we can still apply it here in the Philippines.
-And as I’ve found, it is not popular here. The resource is scarce. So we need more people to spread the word. &lt;/p&gt;
-&lt;p&gt;We need more resources catered to us. Customized specifically needs. To our economy, culture, and governance.
-And so I realized. That since I’m working my way towards that goal. Why not write about it? To help ignite the FIRE here in this country. Documenting how I’ll get there. With specific guides on financial hacks and habits. Along financial wins and losses. All towards financial independence. And early retirement.&lt;/p&gt;
-&lt;p&gt;This way, I can make myself focused on working towards that goal. It will also serve as notes for me. And might help someone else, too. I strongly believe that it’s possible. That we will get there, eventually. Even here in this country. And every one deserves to know it.&lt;/p&gt;
-&lt;p&gt;That we are not meant to live like slaves to our own finances. To debt and consumerism. To FOMO. To work our asses until we’re old. Stealing time away from our family. And still not having enough. Making our children support our living.&lt;/p&gt;
+&lt;p&gt;If we follow the concepts of FIRE, we can get there in 10 years, more or less. Most of the FIRE movement is in US, but we can still apply it here in the Philippines. And as I’ve found, it is not popular here. The resource is scarce.&lt;/p&gt;
+&lt;p&gt;So we need more people to spread the word. We need more resources catered to us. Customized specifically needs. To our economy, culture, and governance.&lt;/p&gt;
+&lt;p&gt;And so I realized. That since I’m working my way towards that goal. Why not write about it? To help ignite the FIRE here in this country. Documenting how I’ll get there. With specific guides on financial hacks and habits. Along financial wins and losses. All towards financial independence. And early retirement. This way, I can make myself focused on working towards that goal. It will also serve as notes for me. And might help someone else, too.&lt;/p&gt;
+&lt;p&gt;I strongly believe that it’s possible. That we will get there, eventually. Even here in this country. And every one deserves to know it. That we are not meant to live like slaves to our own finances. To debt and consumerism. To the fear of missing out (FOMO). To working our asses until we’re old. Stealing time away from our family. And still not having enough. Making our children support our living.&lt;/p&gt;
 &lt;p&gt;No.&lt;/p&gt;
 &lt;p&gt;Fuck no.&lt;/p&gt;
 &lt;p&gt;The world needs us our there. To enjoy our lives. To create something beautiful. To travel. To experience different cultures. To be who we want to be. Where we want to be.
